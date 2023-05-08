@@ -24,31 +24,35 @@ In our exciting demonstration today, we will show you how to set up a parity sto
 
 
 <br />
-First you want to locate the folder where your file is placed. 
- <br/>
-<img src="https://i.imgur.com/pQOfdI6.png" height="80%" width="80%" alt="storage"/>
-<br />
-<br />
-Right click and then give access to followed by " Specific People". Look at the picture below.
- <br/>
-<img src="https://i.imgur.com/Yj3ZJNf.png" height="80%" width="80%" alt="storage"/>
-<br />
-<br />
-In the drop down select all the users in your network you want to assign permissions to and then click Add.
+In the search field on the taskbar, enter Storage Space. Under Best match, select Manage Storage Spaces.
 
  <br/>
-<img src="https://i.imgur.com/Kc4GuZJ.png" height="80%" width="80%" alt="storage"/>
+<img src="https://i.imgur.com/w2PPisz.png" height="80%" width="80%" alt="storage"/>
 <br />
 <br />
-Continue to add all your users. On the right side of the prompt you can select what permission level they have have access to. Click share when finished.
+Select Create a new pool and storage space.
+ <br/>
+<img src="https://i.imgur.com/Uege3zt.png" height="80%" width="80%" alt="storage"/>
+<br />
+<br />
+Add all your drives you wish to add to storage pool the select "Create Pool".
+
+ <br/>
+<img src="https://i.imgur.com/WKOADVL.png" height="80%" width="80%" alt="storage"/>
+<br />
+<br />
+1)In the Name field, enter the name of your storage space. In the Drive letter drop-down list, select the drive you wish to use.
+2)In the Resiliency type drop-down list, select Parity.
+3)In the Size (maximum) field, enter how much space you wish to use. Don't forget some space will be reserved for the parity block. 
+4) Select Create storage space.
 <br/>
-<img src="https://i.imgur.com/Ehau789.pngg" height="80%" width="80%" alt="storage"/>
+<img src="https://i.imgur.com/attEcEw.png" height="80%" width="80%" alt="storage"/>
 <br />
 <br />
-That's it! We are finished. As you can see I already have a file placed inside the shared folder. Now I can rest easy knowing only certain people can access this file.
+That's it! We are finished. As you can see our storage pool has been created using the drives we assigned.
 
  <br/>
-<img src="https://i.imgur.com/NJYwhHB.png" height="80%" width="80%" alt="storage"/>
+<img src="https://i.imgur.com/E8Rv3UU.png" height="80%" width="80%" alt="storage"/>
 <br />
 <br />
 I hope you enjoyed this demonstration.
