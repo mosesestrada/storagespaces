@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/8gJWSER.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/aSkEYss.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
 <h1>Create a storage pool using Windows storage spaces</h1>
@@ -57,7 +57,7 @@ That's it! We are finished. As you can see our storage pool has been created usi
 <br />
 I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/Hog4cU7.jpg" height="80%" width="80%" alt="storage"/>
+<img src="https://i.imgur.com/KH2UNtq.jpg" height="80%" width="80%" alt="storage"/>
 <br />
 <br />
 
