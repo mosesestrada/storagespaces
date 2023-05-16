@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/aSkEYss.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/NPUtikU.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
 <h1>Create a storage pool using Windows storage spaces</h1>
