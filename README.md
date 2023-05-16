@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/NPUtikU.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/1We2THJ.jpg" height="80%" width="80%" alt="sspaces"/>
 </p>
 
 <h1>Create a storage pool using Windows storage spaces</h1>
@@ -27,18 +27,18 @@ In our exciting demonstration today, we will show you how to set up a parity sto
 In the search field on the taskbar, enter Storage Space. Under Best match, select Manage Storage Spaces.
 
  <br/>
-<img src="https://i.imgur.com/w2PPisz.png" height="80%" width="80%" alt="storage"/>
+<img src="https://i.imgur.com/wiCAfqU.png" height="80%" width="80%" alt="storage"/>
 <br />
 <br />
 Select Create a new pool and storage space.
  <br/>
-<img src="https://i.imgur.com/Uege3zt.png" height="80%" width="80%" alt="storage"/>
+<img src="https://i.imgur.com/2XJNCmb.png" height="80%" width="80%" alt="storage"/>
 <br />
 <br />
 Add all your drives you wish to add to storage pool the select "Create Pool".
 
  <br/>
-<img src="https://i.imgur.com/WKOADVL.png" height="80%" width="80%" alt="storage"/>
+<img src="https://i.imgur.com/UowsO2t.png" height="80%" width="80%" alt="storage"/>
 <br />
 <br />
 1)In the Name field, enter the name of your storage space. In the Drive letter drop-down list, select the drive you wish to use.
@@ -46,18 +46,18 @@ Add all your drives you wish to add to storage pool the select "Create Pool".
 3)In the Size (maximum) field, enter how much space you wish to use. Don't forget some space will be reserved for the parity block. 
 4) Select Create storage space.
 <br/>
-<img src="https://i.imgur.com/attEcEw.png" height="80%" width="80%" alt="storage"/>
+<img src="https://i.imgur.com/KZtMzCb.png" height="80%" width="80%" alt="storage"/>
 <br />
 <br />
 That's it! We are finished. As you can see our storage pool has been created using the drives we assigned.
 
  <br/>
-<img src="https://i.imgur.com/E8Rv3UU.png" height="80%" width="80%" alt="storage"/>
+<img src="https://i.imgur.com/QLGT4a6.png" height="80%" width="80%" alt="storage"/>
 <br />
 <br />
 I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/KH2UNtq.jpg" height="80%" width="80%" alt="storage"/>
+<img src="https://i.imgur.com/zFA9ntJ.jpg" height="80%" width="80%" alt="storage"/>
 <br />
 <br />
 
